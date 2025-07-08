@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <h1 class="site-title">{{ site.title | escape }}</h1>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
+<!-- This file is the main layout for the site, using a simple structure with header, main content, and footer. -->
+<!-- It includes a link to a CSS file for styling and uses Liquid templating to insert dynamic content such as the site title and current year. -->
+<!-- The header contains the site title, the main section displays the page content, and the footer shows the copyright information. -->
+<!-- The layout is designed to be minimal and clean, suitable for documentation purposes. -->   
