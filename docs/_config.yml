@@ -1,3 +1,6 @@
-title: SS25 Materials
 theme: minima
-description: Materials for the SS25 course
+title: ""
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
