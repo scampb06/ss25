@@ -24,4 +24,5 @@
 
 **Remediation Steps:** Fact-checking, takedown, warnings, sanctions, monitoring
 
-**Reference Numbers:** 6, 9, 12, 15, 18
+**References:**  
+[6](https://global.espreso.tv/news-poland-faces-rising-disinformation-ahead-of-presidential-election), [9](https://www.forbes.com/sites/lidiakurasinska/2025/06/11/polands-presidential-election-campaign-faced-unprecedented-russian-interference-officials-say/), [12](https://www.polskieradio.pl/395/11354/artykul/3517342,poland-braces-for-cyber-threats-ahead-of-presidential-vote), [15](https://www.lemonde.fr/en/europe/article/2025/05/15/poland-suspects-russian-interference-in-presidential-election-campaign_6741318_143.html), [18](https://edmo.eu/edmo-news/the-kremlins-double-game-russian-attempts-to-influence-polands-2025-election/)
