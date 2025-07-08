@@ -26,3 +26,11 @@
 
 **References:**  
 [7](https://edmo.eu/publications/how-elon-musks-powerful-disinformation-machine-works/), [10](https://www.dw.com/en/fact-check-how-elon-musk-is-meddling-in-german-elections/a-71676473), [13](https://www.dw.com/en/how-elon-musk-meddled-in-germanys-elections/a-71676473), [16](https://www.cnn.com/2025/01/23/europe/elon-musk-europe-politics-x-disinformation-gbr-cmd-intl), [19](https://www.nato-pa.int/document/2025-chinese-disinformation-report-teitelbaum-011-cdsrcs)
+
+## References
+
+[7](https://edmo.eu/publications/how-elon-musks-powerful-disinformation-machine-works/): https://edmo.eu/publications/how-elon-musks-powerful-disinformation-machine-works/  
+[10](https://www.dw.com/en/fact-check-how-elon-musk-is-meddling-in-german-elections/a-71676473): https://www.dw.com/en/fact-check-how-elon-musk-is-meddling-in-german-elections/a-71676473  
+[13](https://www.dw.com/en/how-elon-musk-meddled-in-germanys-elections/a-71676473): https://www.dw.com/en/how-elon-musk-meddled-in-germanys-elections/a-71676473  
+[16](https://www.cnn.com/2025/01/23/europe/elon-musk-europe-politics-x-disinformation-gbr-cmd-intl): https://www.cnn.com/2025/01/23/europe/elon-musk-europe-politics-x-disinformation-gbr-cmd-intl  
+[19](https://www.nato-pa.int/document/2025-chinese-disinformation-report-teitelbaum-011-cdsrcs): https://www.nato-pa.int/document/2025-chinese-disinformation-report-teitelbaum-011-cdsrcs

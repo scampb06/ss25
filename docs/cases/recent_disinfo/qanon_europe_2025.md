@@ -26,3 +26,11 @@
 
 **References:**  
 [26](https://www.france24.com/en/20200915-covid-a-catalyst-for-qanon-s-rise-in-europe), [29](https://www.lighthousereports.com/investigation/qanon-in-europe-tracing-a-viral-conspiracy/), [32](https://www.aei.org/foreign-and-defense-policy/qanons-spread-into-europe/), [35](https://go.recordedfuture.com/hubfs/reports/cta-2025-0618.pdf), [38](https://jaapl.org/content/early/2022/02/18/JAAPL.210053-21)
+
+## References
+
+[26](https://www.france24.com/en/20200915-covid-a-catalyst-for-qanon-s-rise-in-europe): https://www.france24.com/en/20200915-covid-a-catalyst-for-qanon-s-rise-in-europe  
+[29](https://www.lighthousereports.com/investigation/qanon-in-europe-tracing-a-viral-conspiracy/): https://www.lighthousereports.com/investigation/qanon-in-europe-tracing-a-viral-conspiracy/  
+[32](https://www.aei.org/foreign-and-defense-policy/qanons-spread-into-europe/): https://www.aei.org/foreign-and-defense-policy/qanons-spread-into-europe/  
+[35](https://go.recordedfuture.com/hubfs/reports/cta-2025-0618.pdf): https://go.recordedfuture.com/hubfs/reports/cta-2025-0618.pdf  
+[38](https://jaapl.org/content/early/2022/02/18/JAAPL.210053-21): https://jaapl.org/content/early/2022/02/18/JAAPL.210053-21

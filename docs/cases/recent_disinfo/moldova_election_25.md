@@ -26,3 +26,11 @@
 
 **References:**  
 [46](https://pism.pl/publications/russian-interference-nearly-overwhelmed-moldovan-presidential-election-referendum-vote), [49](https://euvsdisinfo.eu/local-elections-in-moldova-new-votes-old-disinformation-narratives/), [52](https://iwpr.net/impact/lessons-learned-moldovas-elections), [55](https://www.moldova.org/en/parliamentary-elections-about-deception-fake-information-and-the-most-active-voters/), [58](https://www.themoscowtimes.com/2025/07/02/moldova-is-the-testing-ground-for-russias-disinformation-machine-a89651)
+
+## References
+
+[46](https://pism.pl/publications/russian-interference-nearly-overwhelmed-moldovan-presidential-election-referendum-vote): https://pism.pl/publications/russian-interference-nearly-overwhelmed-moldovan-presidential-election-referendum-vote  
+[49](https://euvsdisinfo.eu/local-elections-in-moldova-new-votes-old-disinformation-narratives/): https://euvsdisinfo.eu/local-elections-in-moldova-new-votes-old-disinformation-narratives/  
+[52](https://iwpr.net/impact/lessons-learned-moldovas-elections): https://iwpr.net/impact/lessons-learned-moldovas-elections  
+[55](https://www.moldova.org/en/parliamentary-elections-about-deception-fake-information-and-the-most-active-voters/): https://www.moldova.org/en/parliamentary-elections-about-deception-fake-information-and-the-most-active-voters/  
+[58](https://www.themoscowtimes.com/2025/07/02/moldova-is-the-testing-ground-for-russias-disinformation-machine-a89651): https://www.themoscowtimes.com/2025/07/02/moldova-is-the-testing-ground-for-russias-disinformation-machine-a89651

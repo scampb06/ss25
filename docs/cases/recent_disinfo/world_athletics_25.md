@@ -26,3 +26,11 @@
 
 **References:**  
 [27](https://www.essentiallysports.com/olympics-track-and-field-news-american-track-and-field-legend-urges-world-athletics-to-make-major-change-after-chinas-management-flaws/), [30](https://www.essentiallysports.com/olympics-track-and-field-news-world-athletics-forced-to-abandon-world-championships-as-san-diego-setback-haunts-association/), [33](https://www.insidethegames.biz/articles/1143471/important-meeting-tokyo-2025-athletics), [36](https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco), [39](https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco)
+
+## References
+
+[27](https://www.essentiallysports.com/olympics-track-and-field-news-american-track-and-field-legend-urges-world-athletics-to-make-major-change-after-chinas-management-flaws/): https://www.essentiallysports.com/olympics-track-and-field-news-american-track-and-field-legend-urges-world-athletics-to-make-major-change-after-chinas-management-flaws/  
+[30](https://www.essentiallysports.com/olympics-track-and-field-news-world-athletics-forced-to-abandon-world-championships-as-san-diego-setback-haunts-association/): https://www.essentiallysports.com/olympics-track-and-field-news-world-athletics-forced-to-abandon-world-championships-as-san-diego-setback-haunts-association/  
+[33](https://www.insidethegames.biz/articles/1143471/important-meeting-tokyo-2025-athletics): https://www.insidethegames.biz/articles/1143471/important-meeting-tokyo-2025-athletics  
+[36](https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco): https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco  
+[39](https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco): https://worldathletics.org/news/press-releases/decisions-made-233rd-world-athletics-council-meeting-monaco
