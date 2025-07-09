@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Disinformation and Information Influence Campaigns: 2024–2025
 
 | Event/Entity | Date(s) |

@@ -2,3 +2,29 @@ header.site-header,
 footer.site-footer {
   display: none;
 }
+
+/* Home button styling */
+.home-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #0366d6;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #0256cc;
+  color: white;
+  text-decoration: none;
+}
+
+.home-button:visited {
+  color: white;
+}
