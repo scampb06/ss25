@@ -1,9 +1,0 @@
-<!-- This is a placeholder file. Please replace with your actual right logo image -->
-<!-- Expected format: PNG, JPG, or SVG -->
-<!-- Recommended size: 150px width, 40px height (or proportional) -->
-<!-- File should be named: right-logo.png (or .jpg, .svg) -->
-
-To add your right logo:
-1. Save your image as "right-logo.png" (or .jpg, .svg)
-2. Replace this file with your actual image
-3. Make sure the image is optimized for web (preferably under 100KB)
