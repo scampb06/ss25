@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Moldovan Parliamentary Elections 2025
 
 **Date(s):** Ongoing, peak Sep 28, 2025

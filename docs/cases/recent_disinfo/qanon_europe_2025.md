@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # QAnon Conspiracy Theories in Europe 2025
 
 **Date(s):** Ongoing, notable 2025 incidents

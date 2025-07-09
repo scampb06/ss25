@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Disinformation Targeting Taylor Swift 2025
 
 **Date(s):** Jan–Jun 2025

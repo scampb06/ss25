@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # World Athletics Championship Tokyo 2025
 
 **Date(s):** Ongoing, peak Sep 13–21, 2025

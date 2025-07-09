@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # NATO Defense Ministers Meeting, Brussels
 
 **Date(s):** Oct 20–27, 2025 (peak Oct 25, 2025)

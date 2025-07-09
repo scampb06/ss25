@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Paris Olympics 2024
 
 **Date(s):** Mar–Aug 2024, peak Jul–Aug 2024

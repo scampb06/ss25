@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Polish Presidential Election 2025
 
 **Date(s):** Jan–Jun 2025, peak May 18–Jun 1, 2025

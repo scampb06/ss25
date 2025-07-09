@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # COP30 Climate Change Conference 2025
 
 **Date(s):** Ongoing, peak Nov 10–21, 2025
