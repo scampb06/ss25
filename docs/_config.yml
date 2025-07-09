@@ -1,6 +1,6 @@
-theme: minima
+theme: leap-day
 title: ""
 sass:
   style: compressed
-include:
-  - assets/css/custom.css
+#include:
+#  - assets/css/custom.css
