@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
-title: ""
-sass:
-  style: compressed
+#title: ""
+#sass:
+#  style: compressed
 #include:
 #  - assets/css/custom.css
