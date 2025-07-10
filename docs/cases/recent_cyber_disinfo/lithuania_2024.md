@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Lithuania Cyber Surge & Disinformation
 
 **Date:** January–December 2024  

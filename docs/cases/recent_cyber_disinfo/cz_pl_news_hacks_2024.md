@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Czech & Polish News Agency Hacks
 
 **Date:** April 23–25, 2024  

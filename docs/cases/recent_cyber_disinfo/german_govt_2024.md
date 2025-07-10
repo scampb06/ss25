@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # German Government Disinformation & Cyberattacks
 
 **Date:** January–December 2024  

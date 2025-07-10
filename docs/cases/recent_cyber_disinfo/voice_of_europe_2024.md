@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Voice of Europe Influence Operation
 
 **Date:** March–May 2024  

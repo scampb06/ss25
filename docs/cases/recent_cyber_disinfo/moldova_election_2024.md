@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Moldova Election Interference
 
 **Date:** October 20, 2024 (referendum)  

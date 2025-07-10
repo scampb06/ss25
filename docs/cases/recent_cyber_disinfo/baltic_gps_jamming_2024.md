@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # GPS Jamming in Baltic States
 
 **Date:** January 2024 – May 2025  

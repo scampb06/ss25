@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Major Cybersecurity Incidents in Europe Accompanied by Disinformation (2024–2025)
 
 | Incident Name                                                                                                  | Date(s)                                 |

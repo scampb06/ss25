@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Paris Olympics Disinformation & Cyberattacks
 
 **Date:** July 26 – August 11, 2024  

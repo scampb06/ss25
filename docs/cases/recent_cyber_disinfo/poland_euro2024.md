@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # Poland DDoS & Broadcast Disruption (Euro 2024)
 
 **Date:** June 16 & 21, 2024  

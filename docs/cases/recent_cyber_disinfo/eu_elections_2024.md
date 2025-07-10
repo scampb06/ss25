@@ -1,3 +1,5 @@
+<a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+
 # European Parliamentary Elections Attacks
 
 **Date:** June 3–10, 2024  
