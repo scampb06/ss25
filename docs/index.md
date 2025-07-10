@@ -1,5 +1,5 @@
 ---
-#title:
+title: "Participant Website"
 ---
 # Real World Examples
 
