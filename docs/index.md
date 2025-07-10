@@ -9,8 +9,8 @@
 
 # Tools
 
-[Bellingcat's Online investigation Toolkit](https://bellingcat.gitbook.io/toolkit)
+[Bellingcat's Online investigation Toolkit] (https://bellingcat.gitbook.io/toolkit)
 
-[DISARM Foundation's OpenCTI Instance](https://fisac-puffin.octi.filigran.io)
+[DISARM Foundation's OpenCTI Instance] (https://fisac-puffin.octi.filigran.io)
 
-[Information Laundromat](https://informationlaundromat.com/)
+[Information Laundromat] (https://informationlaundromat.com/)
