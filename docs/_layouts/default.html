@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
+  </head>
+
+  <body>
+    <!-- Home button - only show if not on home page -->
+    {% unless page.url == "/" or page.url == "/index.html" %}
+    <a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
+    {% endunless %}
+
+    <div id="container">
+      <div class="inner">
+        <header>
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </header>
+        <section id="downloads" class="clearfix">
+          {{ content }}
+        </section>
+        <hr>
+        <section id="main_content">
+        </section>
+        <footer>
+          {% if site.github.is_project_page %}
+          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> &mdash; Theme by <a href="https://github.com/mattgraham">mattgraham</a></small></p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
