@@ -7,7 +7,7 @@ title: "Participant Website"
 
 [Recent Cyber Incidents with Disinformation](cases/recent_cyber_disinfo/recent_cyber_disinfo.md)
 
-# Tools to Investigate Disinformation and FIMI
+# Tools to Investigate Disinformation
 
 [Bellingcat's Online investigation Toolkit](https://bellingcat.gitbook.io/toolkit)
 
