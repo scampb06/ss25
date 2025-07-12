@@ -34,4 +34,5 @@
 
 [1](https://www.swissinfo.ch/eng/hackers-hit-poland-euro-2024-match-broadcast-in-second-attack/81385742): https://www.swissinfo.ch/eng/hackers-hit-poland-euro-2024-match-broadcast-in-second-attack/81385742  
 [2](https://unn.ua/en/news/russian-hackers-accused-of-trying-to-disrupt-the-broadcast-of-the-euro-2024-match-in-poland): https://unn.ua/en/news/russian-hackers-accused-of-trying-to-disrupt-the-broadcast-of-the-euro-2024-match-in-poland  
-[3](https://www.tvp.pl/tvp-world/kategorie/society/polish-public-television-hit-by-cyber-attack-during-important-euro-2024-match/78757954): https://www.tvp.pl/tvp-world/kategorie/society/polish-public-television-hit-by-cyber-attack-during-important-euro-2024-match/78757954  
+[3](https://www.tvp.pl/tvp-world/kategorie/society/polish-public-television-hit-by-cyber-attack-during-important-euro-2024-match/78757954): https://www.tvp.pl/tvp-world/kategorie/society/polish-public-television-hit-by-cyber-attack-during-important-euro-2024-match/78757954
+[4](https://therecord.media/poland-blames-russia-ddos-euro-2024-online-broadcast): https://therecord.media/poland-blames-russia-ddos-euro-2024-online-broadcast  
