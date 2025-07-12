@@ -13,6 +13,10 @@ title: "Participant Website"
 
 [EU Disinfo Lab Tools to Monitor Disinformation](https://www.disinfo.eu/resources/tools-to-monitor-disinformation/)
 
+[EU Disinfo Lab AI Disinfo Hub](https://www.disinfo.eu/ai-disinfo-hub/)
+
+[NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
+
 [DISARM Foundation's OpenCTI Instance](https://fisac-puffin.octi.filigran.io)
 
 # Incident Databases
