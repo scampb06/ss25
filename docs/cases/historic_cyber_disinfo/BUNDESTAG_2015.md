@@ -25,7 +25,9 @@
 - **Estimated Impact:** Heightened distrust, fear
 - **Disinfo Investigators:** German BSI, media
 - **Remediation:** Monitoring, public advisories
-- **Link:** Threats used to amplify impact
+- **Link:** Threats to leak on btleaks.com (similar to dcleaks.com) used to amplify impact
 
 ## References
 [1. NPR](https://www.npr.org/sections/thetwo-way/2018/03/01/589787931/russias-fancy-bear-reportedly-hacks-german-government-networks)
+[2. SWP Research](https://www.swp-berlin.org/publications/products/research_papers/2021RP11_EU_CyberSanctions.pdf)
+[3. Buzzfeed](https://www.buzzfeed.de/recherchen/diese-webseiten-deuten-auf-ein-bundestagsleak-hin-und-hier-steht-warum-90134843.html)
