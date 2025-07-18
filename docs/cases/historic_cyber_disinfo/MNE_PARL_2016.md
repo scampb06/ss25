@@ -28,4 +28,4 @@
 - **Link:** Attacks & false claims synchronized
 
 ## References
-[1. CREST Research](https://crestresearch.ac.uk/download/2405/19-020-01.pdf)
+[1. NBC News](https://www.nbcnews.com/news/us-news/white-house-readies-fight-election-day-cyber-mayhem-n677636)
