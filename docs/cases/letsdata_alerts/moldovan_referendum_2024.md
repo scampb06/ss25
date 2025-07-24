@@ -2,10 +2,10 @@
 
 # Moldovan Referendum 2024 Interference
 
-| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp; |
-|----|---------------|---------|
+| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|---|---------------|---------|
 | 🟡 | [Pro-Russian Channels Exploit Defence Ministry Denials (General)](https://drive.google.com/file/d/1-bpvLa0kfXl1Yvb_avya0kvMSfL-XGBm/view?usp=drivesdk) | 15 Jul 2025 |    
-| 🟡 | [Reflection of Zaharova_s Declarations by Malign Actors](https://drive.google.com/file/d/18uq8-z1ShHVoCqe0-quQKvxmRkdbFO4p/view?usp=drivesdk)  | 16 oct 2024 |  
+| 🟡 | [Reflection of Zaharova_s Declarations by Malign Actors](https://drive.google.com/file/d/18uq8-z1ShHVoCqe0-quQKvxmRkdbFO4p/view?usp=drivesdk)  | 16 Oct 2024 |  
 | 🟡 | [Russian Officials’ Statements Fuel Narratives of Electoral Illegitimacy and Western Interference in Moldova](https://drive.google.com/file/d/1P5crQZST43hYjK0SQEA3ITo-Rbtgf0BS/view?usp=drivesdk)  | 6 Nov 2024 |  
 | 🟡 | [Main Narratives Against Euro-integration Referendum in Moldova](https://drive.google.com/file/d/1M2XsEqem5LROX1wTup4IAo_Ke9qfg4VZ/view?usp=drivesdk) | 14 Oct 2024 |   
 | 🟡 | [Malign Actors Decry Limiting the Number of Polling Stations in Russia - Main Narratives](https://drive.google.com/file/d/1AlXk7Qgc0xkeznEoPd8a59UfEItF-div/view?usp=drivesdk)  | 15 Oct 2024 |  
