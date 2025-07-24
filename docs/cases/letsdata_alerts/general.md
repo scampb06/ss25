@@ -2,7 +2,7 @@
 
 # LetsData General Alerts
 
-| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---------------|-----------------|
 | 🔴 | [Malign Reactions Targeting Maia Sandu's Visit to Brussels Claim Moldova a "Vassal State"](https://drive.google.com/file/d/1JNlQMe2pc1c6EIyHF_1zyncm3U8R2z3g/view?usp=drivesdk) | 10 Dec 2024 |
 | 🟢 | [SVR Narratives Target Moldovan Social Cohesion](https://drive.google.com/file/d/1XcZiPulWDs2j7sDDJz45rrvwMsBese6W/view?usp=drivesdk) | 4 Dec 2024 |
