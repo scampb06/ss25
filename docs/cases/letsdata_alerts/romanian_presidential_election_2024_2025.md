@@ -2,7 +2,7 @@
 
 # Romanian Presidential Election 2024-2025
 
-| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---------------|---------|
 | 🟢 |[ Georgescu–Carlson Interview Fuels Militarisation Narrative Linking Romania and Moldova (General)](https://drive.google.com/file/d/1AJV_qgbbk1ZWuAs27_i1VpoKWwNn--rG/view?usp=drivesdk) | 11 Apr 2025 |  
 | 🟡 |[ Malign Actors Weaponize Romanian Elections to Stoke Polarisation in Moldova](https://drive.google.com/file/d/1uLZqy8FjiZeAT1MoAVRV3u7I_cG2aY5a/view?usp=drivesdk) | 12 May 2025 |  
