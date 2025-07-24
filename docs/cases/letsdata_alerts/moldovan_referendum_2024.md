@@ -2,7 +2,7 @@
 
 # Moldovan Referendum 2024 Interference
 
-| Code | Alert | Date(s) |
+| Code | Alert | Date(s)&nbsp;&nbsp;&nbsp; |
 |----|---------------|---------|
 | 🟡 | [Pro-Russian Channels Exploit Defence Ministry Denials (General)](https://drive.google.com/file/d/1-bpvLa0kfXl1Yvb_avya0kvMSfL-XGBm/view?usp=drivesdk) | 15 Jul 2025 |    
 | 🟡 | [ Reflection of Zaharova_s Declarations by Malign Actors](https://drive.google.com/file/d/18uq8-z1ShHVoCqe0-quQKvxmRkdbFO4p/view?usp=drivesdk)  | 16 oct 2024 |  
