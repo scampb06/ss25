@@ -6,7 +6,7 @@
 [Graphika](https://graphika.com/)  
 [ISD Global](https://www.isdglobal.org/)  
 [debunk](https://www.debunk.org/)  
-[Alliance for Securing Democracy](https://securingdemocracy.gmfus.org/) 
+[Alliance for Securing Democracy](https://securingdemocracy.gmfus.org/)   
 [CheckFirst](https://checkfirst.network/)   
 [Recorded Future](https://www.recordedfuture.com/research)  
 [Centre for Information Resilience](https://www.info-res.org/)  
