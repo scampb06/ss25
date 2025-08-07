@@ -20,7 +20,7 @@ title: "Participant Website"
 [Bellingcat's Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit)  
 [EU Disinfo Lab Tools to Monitor Disinformation](https://www.disinfo.eu/resources/tools-to-monitor-disinformation/)  
 [EU Disinfo Lab AI Disinfo Hub](https://www.disinfo.eu/ai-disinfo-hub/)  
-[vera.ai AI Tools for Disinformation](https://aiod.eu/)  
+[vera.ai AI Tools for Disinformation](https://www.veraai.eu/home)    
 [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)  
 [Games to Improve Threat Awareness](games/games.md)  
 [Well Known Organizations Tracking Information Manipulation](resources/resources.md)
