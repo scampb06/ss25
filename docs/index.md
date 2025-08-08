@@ -37,7 +37,8 @@ title: "Participant Website"
 [Coursera AI for Everyone with Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)  
 [The Hugging Face Developer Community](https://huggingface.co/)  
 [The EU's AI on Demand for AI Researchers](https://aiod.eu/)  
-[OWASP GenAI Security Project](https://genai.owasp.org/)
+[OWASP GenAI Security Project](https://genai.owasp.org/)  
+[Jerry Gao's Substack](https://jerrygaolondon.substack.com/)
 
 # Incident Databases
 
