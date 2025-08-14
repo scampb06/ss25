@@ -50,7 +50,7 @@ title: "Participant Website"
 [OWASP GenAI Security Project](https://genai.owasp.org/)  
 [Jerry Gao's Substack](https://jerrygaolondon.substack.com/)
 
-# Recent Reports on AI, Disinformation, Cybersecurity
+# Recent Reports  
 [vera.ai Gen AI and Disinformation: Recent Advances, Challenges, and Opportunities, Feb 2024](https://edmo.eu/wp-content/uploads/2023/12/Generative-AI-and-Disinformation_-White-Paper-v8.pdf)  
 [vera.ai Coordinated sharing behavior detection and disinformation campaign modelling, July 2025](https://veraai-cms-files.s3.eu-central-1.amazonaws.com/D4_2_V1_0_013beb034d.pdf)  
 [EUDisinfoLab Coordinated Inauthentic Behavior Detection Tree, August 2024](https://www.disinfo.eu/publications/coordinated-inauthentic-behaviour-detection-tree/)  
