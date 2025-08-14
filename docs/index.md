@@ -55,6 +55,7 @@ title: "Participant Website"
 [vera.ai Coordinated sharing behavior detection and disinformation campaign modelling methods, July 2025](https://veraai-cms-files.s3.eu-central-1.amazonaws.com/D4_2_V1_0_013beb034d.pdf)  
 [EUDisinfoLab Coordinated Inauthentic Behavior Detection Tree, August 2024](https://www.disinfo.eu/publications/coordinated-inauthentic-behaviour-detection-tree/)  
 [VIGINUM Challenges and opportunities of artificial intelligence in the fight against disinformation](https://www.sgdsn.gouv.fr/files/files/Publications/20250207_NP_SGDSN_VIGINUM_Rapport%20menace%20informationnelle%20IA_EN_0.pdf)  
+[Security Boulevard GROKINT - Using Grok AI for X OSINT](https://securityboulevard.com/2025/08/grokint-using-grok-ai-for-x-osint/)  
 [El Paccto 2.0 Artificial Intelligence and Organised Crime, Nov 2024](https://capacity4dev.europa.eu/library/artificial-intelligence-and-organised-crime-english_en)  
 [Checkpoint Research AI Security Report, May 2025](https://www.checkpoint.com/resources/items/report-ai-security-report-2025)  
 [EU Parliament Artificial intelligence and cybersecurity](https://www.europarl.europa.eu/RegData/etudes/ATAG/2024/762292/EPRS_ATA(2024)762292_EN.pdf)  
