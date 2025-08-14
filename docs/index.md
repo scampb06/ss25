@@ -61,3 +61,5 @@ title: "Participant Website"
 [Telsy Olimpo](https://connect-stage.telsy.com/#/login)  
 [Filigran OpenCTI](https://fisac-puffin.octi.filigran.io/)  
 [Element Matrix](https://app.element.io/#/room/#silent-wave-control:matrix.org)  
+[Feedback on Rosaria's Day 1 Session](https://docs.google.com/forms/d/18g5Qq7IDti5-MGW9177TZ_3u0V4kRumzilcIRT3AoAs/edit)  
+[Feedback on Rosaria's Day 2 Session](https://forms.gle/BeuiRFr7UnLZUgji6)
