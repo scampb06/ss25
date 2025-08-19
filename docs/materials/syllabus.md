@@ -165,35 +165,24 @@ Navigating Disinformation and Cyber Attacks in the AI era**.
 
 08:30 -- 09:00 Arrival and Registration
 
-09:00 -- 09:30 Welcoming Remarks
+09:00 -- 09:30 Welcoming Remarks  
+Module: AD.WELCOME  
+Speakers Led by Cecilia Popa, EU CyberNet Experts & Community Lead  
+and Felix Kroll, Cyber Foreign Policy Staff, German Federal Foreign Office
 
-Module: AD.WELCOME
-
-Speakers Led by Cecilia Popa, EU CyberNet Experts & Community Lead
-
-and Felix Kroll, Cyber Foreign Policy Staff, German Federal Foreign
-Office
-
-09:30 -- 09:40 Overview of the Course
-
-Module: DI.INTRO.1 [Slides](DI.INTRO.1 Overview of the Course.pdf)
-
+09:30 -- 09:40 Overview of the Course  
+Module: DI.INTRO.1 [Slides](DI.INTRO.1 Overview of the Course.pdf)  
 Instructor Led by Cosimo Melella, EU CyberNet Instructor
 
-09:40 -- 10:00 Defending Democratic Information in the Age of
-Algorithmic Manipulation
-
-Module: DI.INTRO.2 
-
+09:40 -- 10:00 Defending Democratic Information in the Age of Algorithmic Manipulation  
+Module: DI.INTRO.2  [Slides plus Notes](DI.INTRO.2 Defending democratic information in the age of algorithmic manipulation.pdf)   
 Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
-10:00 -- 10:20 Cyber Crisis Management in the European Union
-
-Module: DI.CYBER.1 [Slides plus Notes](DI.CYBER.1.pdf)
-
-Instructors Led by Rosaria Talarico, Guest Speaker
-
-and Cosimo Melella, EU CyberNet Instructor
+10:00 -- 10:20 Cyber Crisis Management in the European Union  
+Module: DI.CYBER.1 [Slides plus Notes](DI.CYBER.1 Cyber crisis management in the European union.pdf)  
+Instructor Led by Stephen Campbell, EU CyberNet Instructor
+Module: DI.CYBER.1 Part 2 [Slides](DI.CYBER.1 Cyber Crisis Management in the European Union Part 2.pdf)  
+Instructors Led by Rosaria Talarico, Guest Speaker, and Cosimo Melella, EU CyberNet Instructor
 
 10:20 -- 10:40 The Role of Social Media in Spreading Disinformation,
 Reducing Trust and Amplifying Cyber Crises
