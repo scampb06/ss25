@@ -185,7 +185,7 @@ Module: DI.CYBER.1 Part 2 [Slides](DI.CYBER.1 Cyber Crisis Management in the Eur
 Instructors Led by Rosaria Talarico, Guest Speaker, and Cosimo Melella, EU CyberNet Instructor
 
 10:20 -- 10:40 The Role of Social Media in Spreading Disinformation, Reducing Trust and Amplifying Cyber Crises  
-Module: DI.SOCIAL.1 + DI.TRUST.1 [Slides}(DI.SOCIAL.1^MDI.TRUST.1 The role of social media in spreading disinformation reducing trust and amplifying cyber crises.pdf)]  
+Module: DI.SOCIAL.1 + DI.TRUST.1 [Slides plus Notes](DI.SOCIAL.1^MDI.TRUST.1 The role of social media in spreading disinformation reducing trust and amplifying cyber crises.pdf)]  
 Instructors Led by Rosaria Talarico, Guest Speaker, and Cosimo Melella, EU CyberNet Instructor
 
 10:40 -- 11:10 Family Photo + Coffee Break
@@ -195,62 +195,42 @@ Module: DI.CASES.1 [Slides](DI.CASES.1 Trends in Foreign Information Manipulatio
 Instructors Led by Beatriz Marin Garcia, Guest Speaker \[remote\] 
 
 11:40 -- 12:00 The German Experience Tracking Specific Russian Operations  
-Module: DI.CASES.2  [Doppelgänger](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auswaertiges-amt.de/resource/blob/2682484/2da31936d1cbeb9faec49df74d8bbe2e/technischer-bericht-desinformationskampagne-doppelgaenger-1--data.pdf&ved=2ahUKEwi2_ZTp_pOPAxVWi_0HHXAWLhMQFnoECBgQAQ&usg=AOvVaw31Ka2Fbyqq9KyIfXzcwgSZ)  [Storm-1516](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epc.eu/publication/Storm-1516-A-wake-up-call-for-Europes-cognitive-defence-650d24/&ved=2ahUKEwjp0qCH_5OPAxVD7rsIHTFqNksQFnoECCMQAQ&usg=AOvVaw23ymWMLnaNuvJ6g30EZmMO)  [Matryoshka](https://www.isdglobal.org/digital_dispatches/stolen-voices-russia-aligned-operation-manipulates-audio-and-images-to-impersonate-experts/)  
+Module: DI.CASES.2   [Doppelgänger](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auswaertiges-amt.de/resource/blob/2682484/2da31936d1cbeb9faec49df74d8bbe2e/technischer-bericht-desinformationskampagne-doppelgaenger-1--data.pdf&ved=2ahUKEwi2_ZTp_pOPAxVWi_0HHXAWLhMQFnoECBgQAQ&usg=AOvVaw31Ka2Fbyqq9KyIfXzcwgSZ)   [Storm-1516](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epc.eu/publication/Storm-1516-A-wake-up-call-for-Europes-cognitive-defence-650d24/&ved=2ahUKEwjp0qCH_5OPAxVD7rsIHTFqNksQFnoECCMQAQ&usg=AOvVaw23ymWMLnaNuvJ6g30EZmMO)   [Matryoshka](https://www.isdglobal.org/digital_dispatches/stolen-voices-russia-aligned-operation-manipulates-audio-and-images-to-impersonate-experts/)  
 Instructor Led by Torben Stein, German Federal Foreign Office
 
-12:00 -- 13:00 Hands-On Threat Modeling with Filigran OpenCTI
-
-Module: PS.THREATS.1
-
-Instructors Led by Stephen Campbell, EU CyberNet Instructor
-
-and Julian Neylan, DISARM Foundation
+12:00 -- 13:00 Hands-On Threat Modeling with Filigran OpenCTI  
+Module: PS.THREATS.1 [Slides](PS.THREATS.1 Hands-on threat modeling with Filigran OpenCTI.pdf)  
+Instructors Led by Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
 13:00 -- 14:00 Lunch Break
 
-14:00 -- 14:20 Detecting Coordinated Inauthentic Behaviour in Social
-Media
-
-Module: DI.SOCIAL.2
-
+14:00 -- 14:20 Detecting Coordinated Inauthentic Behaviour in Social Media  
+Module: DI.SOCIAL.2  
 Instructor Led by Torben Stein, German Federal Foreign Office
 
-14:20 -- 14:40 Hands-on Monitoring of Social Media with Telsy Olimpo
-
-Module: PS.THREATS.2
-
+14:20 -- 14:40 Hands-on Monitoring of Social Media with Telsy Olimpo  
+Module: PS.THREATS.2 [Slides](PS.THREATS.2 Hands-On Monitoring of Social Media with Telsy Olimpo.pdf)  
 Instructor Led by Cosimo Melella, EU CyberNet Instructor
 
-14:40 -- 15:00 The Impact of Disinformation on Cyber Resilience
+14:40 -- 15:00 The Impact of Disinformation on Cyber Resilience  
+Module: DI.CYBER.2  
+Instructor Led by Felix Kroll, Cyber Foreign Policy Staff, German Federal Foreign Office
 
-Module: DI.CYBER.2
-
-Instructor Led by Felix Kroll, Cyber Foreign Policy Staff, German
-Federal Foreign Office
-
-15:00 -- 15:20 Real-World Cases of Disinformation During Cyber Crises
-
-Module: DI.CASES.3
-
-Instructor Led by Felix Kroll, Cyber Foreign Policy Staff, German
-Federal Foreign Office
+15:00 -- 15:20 Real-World Cases of Disinformation During Cyber Crises  
+Module: DI.CASES.3  [Slides and Notes on GhostWriter](DI.CASES.3 Real-World Cases of Disinformation During Cyber Crises Example Ghostwriter.pdf)  
+Instructor Led by Felix Kroll, Cyber Foreign Policy Staff, German Federal Foreign Office
 
 15:20 -- 15:50 Coffee Break
 
-15:50 -- 16:10 Introduction to Artificial Intelligence
-
-Module: AI.OFFENSE.1
-
+15:50 -- 16:10 Introduction to Artificial Intelligence  
+Module: AI.OFFENSE.1 [Slides plus Notes](AI.OFFENSE.1 Introduction to Artificial Intelligence.pdf)  
 Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
-16:10 -- 16:30 Using AI to Create and Spread Content
-
-Module: AI.OFFENSE.1
-
+16:10 -- 16:30 Using AI to Create and Spread Content  
+Module: AI.OFFENSE.2 [Slides plus Notes](AI.OFFENSE.2 Using AI to create and spread disinformation.pdf)  
 Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
-16:30 -- 17:00 Preview of Day 2
-
+16:30 -- 17:00 Preview of Day 2  
 Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
 19:00 -- 21:00 Social Dinner
