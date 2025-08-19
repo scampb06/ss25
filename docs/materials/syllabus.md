@@ -180,34 +180,22 @@ Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
 10:00 -- 10:20 Cyber Crisis Management in the European Union  
 Module: DI.CYBER.1 [Slides plus Notes](DI.CYBER.1 Cyber crisis management in the European union.pdf)  
-Instructor Led by Stephen Campbell, EU CyberNet Instructor
+Instructor Led by Stephen Campbell, EU CyberNet Instructor  
 Module: DI.CYBER.1 Part 2 [Slides](DI.CYBER.1 Cyber Crisis Management in the European Union Part 2.pdf)  
 Instructors Led by Rosaria Talarico, Guest Speaker, and Cosimo Melella, EU CyberNet Instructor
 
-10:20 -- 10:40 The Role of Social Media in Spreading Disinformation,
-Reducing Trust and Amplifying Cyber Crises
-
-Module: DI.SOCIAL.1 + DI.TRUST.1
-
-Instructors Led by Rosaria Talarico, Guest Speaker
-
-and Cosimo Melella, EU CyberNet Instructor
+10:20 -- 10:40 The Role of Social Media in Spreading Disinformation, Reducing Trust and Amplifying Cyber Crises  
+Module: DI.SOCIAL.1 + DI.TRUST.1 [Slides}(DI.SOCIAL.1^MDI.TRUST.1 The role of social media in spreading disinformation reducing trust and amplifying cyber crises.pdf)]  
+Instructors Led by Rosaria Talarico, Guest Speaker, and Cosimo Melella, EU CyberNet Instructor
 
 10:40 -- 11:10 Family Photo + Coffee Break
 
-11:10 -- 11:40 Trends in Foreign Information Manipulation and
-Interference
+11:10 -- 11:40 Trends in Foreign Information Manipulation and Interference  
+Module: DI.CASES.1 [Slides](DI.CASES.1 Trends in Foreign Information Manipulation and Interference.pdf)  
+Instructors Led by Beatriz Marin Garcia, Guest Speaker \[remote\] 
 
-Module: DI.CASES.1
-
-Instructors Led by Beatriz Marin Garcia, Guest Speaker \[remote\] and
-Cosimo Melella, EU CyberNet Instructor
-
-11:40 -- 12:00 The German Experience Tracking Specific Russian
-Operations
-
-Module: DI.CASES.2
-
+11:40 -- 12:00 The German Experience Tracking Specific Russian Operations  
+Module: DI.CASES.2  [Doppelgänger](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auswaertiges-amt.de/resource/blob/2682484/2da31936d1cbeb9faec49df74d8bbe2e/technischer-bericht-desinformationskampagne-doppelgaenger-1--data.pdf&ved=2ahUKEwi2_ZTp_pOPAxVWi_0HHXAWLhMQFnoECBgQAQ&usg=AOvVaw31Ka2Fbyqq9KyIfXzcwgSZ)  [Storm-1516](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epc.eu/publication/Storm-1516-A-wake-up-call-for-Europes-cognitive-defence-650d24/&ved=2ahUKEwjp0qCH_5OPAxVD7rsIHTFqNksQFnoECCMQAQ&usg=AOvVaw23ymWMLnaNuvJ6g30EZmMO)  [Matryoshka](https://www.isdglobal.org/digital_dispatches/stolen-voices-russia-aligned-operation-manipulates-audio-and-images-to-impersonate-experts/)  
 Instructor Led by Torben Stein, German Federal Foreign Office
 
 12:00 -- 13:00 Hands-On Threat Modeling with Filigran OpenCTI
