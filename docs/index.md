@@ -1,6 +1,10 @@
 ---
 title: "Participant Website"
 ---
+# Curriculum
+
+[Syllabus and Materials](materials/syllabus.md)
+
 # Real World Examples
 
 [Recent Cyber Incidents with Disinformation](cases/recent_cyber_disinfo/recent_cyber_disinfo.md)  

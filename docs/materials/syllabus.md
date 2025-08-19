@@ -239,131 +239,79 @@ Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
 08:30 -- 09:00 Arrival
 
-09:00 -- 09:20 Rapid Response Networks and Frameworks
+09:00 -- 09:20 Rapid Response Networks and Frameworks  
+Module: CD.RRM.1 [Slides plus Notes](CD.RRM.1 Rapid Response Networks and Frameworks.pdf)  
+Instructors Led by Julian Neylan, DISARM Foundation and Stephen Campbell, EU CyberNet Instructor
 
-Module: CD.RRM.1
+09:20 -- 10:00 Protocols for Information Sharing, Structured Data and Response  
+Module: CD.RRM.2 + CD.PROTOCOLS.1 [Slides plus Notes](CD.RRM.2^MCD.PROTOCOLS.1 Protocols for information sharing structured data and response.pdf)  
+Instructors Led by Julian Neylan, DISARM Foundation and Stephen Campbell, EU CyberNet Instructor
 
-Instructors Led by Julian Neylan, DISARM Foundation
-
-and Stephen Campbell, EU CyberNet Instructor
-
-09:20 -- 10:00 Protocols for Information Sharing, Structured Data and
-Response
-
-Module: CD.RRM.2 + CD.PROTOCOLS.1
-
-Instructors Led by Julian Neylan, DISARM Foundation
-
-and Stephen Campbell, EU CyberNet Instructor
-
-10:00 -- 10:40 Strategic Communications Before, During and After Cyber
-Crises
-
-Module: CD.COMMS.1
-
-Instructors Led by Rosaria Talarico, Guest Speaker
-
-and Cosimo Melella, EU CyberNet Instructor
+10:00 -- 10:40 Strategic Communications Before, During and After Cyber Crises  
+Module: CD.COMMS.1 [Slides](CD.COMMS.1 Strategic Communications Before During and After Cyber Crises.pdf)  
+Instructors Led by Rosaria Talarico, Guest Speaker and Cosimo Melella, EU CyberNet Instructor
 
 10:40 -- 11:10 Coffee Break
 
-11:10 -- 11:30 Using AI to Detect, Classify and Track Disinformation
+11:10 -- 11:30 Using AI to Detect, Classify and Track Disinformation  
+Module: AI.DEFENSE.1 [Slides plus Notes](AI.DEFENSE.1 Using AI to detect classify and track disinformation.pdf)  
+Instructors Led by Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-Module: AI.DEFENSE.1
+11:30 -- 12:30 Hands-on Use of AI-enabled Detection and Information Laundering Tools  
+Module: PS.MITIGATIONS.1 [Slides](PS.MITIGATIONS.1 Hands-on use of AI-enabled detection and analysis tools.pdf)  
+Instructors Led by Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-Instructors Led by Stephen Campbell, EU CyberNet Instructor and Julian
-Neylan, DISARM Foundation
-
-11:30 -- 12:30 Hands-on Use of AI-enabled Detection and Information
-Laundering Tools
-
-Module: PS.MITIGATIONS.1
-
-Instructors Led by Stephen Campbell, EU CyberNet Instructor and Julian
-Neylan, DISARM Foundation
-
-12:30 -- 13:00 Table-Top Introduction and Briefing (all teams)
-
-Module: PS.TABLE.0
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
+12:30 -- 13:00 Table-Top Introduction and Briefing (all teams)  
+Module: PS.TABLE.0 [Slides](PS.TABLE.0 Table Top Introductionn and Briefing.pdf)  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
 13:00 -- 14:00 Lunch Break
 
-14:00 -- 14:30 Table-Top Phase 1 -- Initial Disinformation Wave
+14:00 -- 14:30 Table-Top Phase 1 -- Initial Disinformation Wave  
+Module: PS.TABLE.1  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-Module: PS.TABLE.1
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
-
-14:30 -- 15:20 Table-Top Phase 2 -- Escalation: Cyberattack and Public
-Unrest
-
-Module: PS.TABLE.2
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
+14:30 -- 15:20 Table-Top Phase 2 -- Escalation: Cyberattack and Public Unrest  
+Module: PS.TABLE.2  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
 15:20 -- 15:50 Coffee Break
 
-15:50 -- 16:40 Table-Top Phase 3 -- Decision-making + Coordination
+15:50 -- 16:40 Table-Top Phase 3 -- Decision-making + Coordination  
+Module: PS.TABLE.3  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-Module: PS.TABLE.3
+16:40 -- 17:00 Table-Top Phase 4 -- Communication and Response  
+Module: PS.TABLE.4  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
-
-16:40 -- 17:00 Table-Top Phase 4 -- Communication and Response
-
-Module: PS.TABLE.4
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
-
-17:00 -- 17:10 Table-Top Phase 5 -- Internal Strategic Wrap-Up
-(internal)
-
-Module: PS.TABLE.5
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
+17:00 -- 17:10 Table-Top Phase 5 -- Internal Strategic Wrap-Up (internal)  
+Module: PS.TABLE.5  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
 ### Day 3 Friday 15 August 
 
 08:30 -- 09:00 Arrival
 
-09:00 -- 10:40 Table-Top Team Presentations (10 min. each)
-
-Module: PS.TABLE.6
-
-Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
-Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
+09:00 -- 10:40 Table-Top Team Presentations (10 min. each)  
+Module: PS.TABLE.6  
+Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
 10:40 -- 11:10 Coffee Break
 
-11:10 -- 11:35 Ethical considerations of using AI
-
-Module: AI.ETHICS.1
-
+11:10 -- 11:35 Ethical considerations of using AI  
+Module: AI.ETHICS.1 [Slides](AI.ETHICS.1+AI.ETHICS.2 Ethical Considerations of Using AI and AI regulations standards and best practices.pdf)  
 Instructor Led by Professor Joanna Bryson, Guest Speaker
 
-11:35 -- 12:00 AI regulations, standards and best practices
-
-Module: AI.ETHICS.2
-
+11:35 -- 12:00 AI regulations, standards and best practices  
+Module: AI.ETHICS.2  
 Instructor Led by Professor Joanna Bryson, Guest Speaker
 
-12:00 -- 13:00 Conclusion and Wrap-Up + Ceremony
-
-Module: AD.CONCLUSION
-
-Instructor Led by Cecilia Popa, EU CyberNet Experts & Community Lead
-
-And Swantje Kortemeyer, Deputy Unit Head, German Federal Foreign
+12:00 -- 13:00 Conclusion and Wrap-Up + Ceremony  
+Module: AD.CONCLUSION  
+Instructor Led by Cecilia Popa, EU CyberNet Experts & Community Lead And Swantje Kortemeyer, Deputy Unit Head, German Federal Foreign
 Office
 
 13:00 -- 14:00 Lunch break
 
-14:00 Departure \[Safe travels, everyone!\]
+14:00 Departure
