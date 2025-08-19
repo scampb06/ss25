@@ -1,9 +1,6 @@
 <a href="{{ '/' | relative_url }}" class="home-button">🏠 Home</a>
 
-# EU CyberNet Summer School 2025 
-
-Cyber Crisis Management: Navigating Disinformation and Cyber Attacks in
-the AI Era
+# Cyber Crisis Management: Navigating Disinformation and Cyber Attacks in the AI Era
 
 13 - 15 August 2025
 
@@ -11,7 +8,7 @@ Venue: Berlin, Germany
 
 Background Note and Programme
 
-Context
+## Context
 
 EU CyberNet (EUCN) has established, so far, a cyber security community
 of 500+ experts on topics such as cybersecurity, cybercrime, cyber
@@ -53,16 +50,11 @@ the damage.<sup>[2]</sup> This not only impacts decision- makers but also
 influences public perception, sometimes leading to panic or misguided
 reactions.
 
-**Social media platforms** play a significant role in amplifying disinformation. AI-powered bots can generate thousands of posts within minutes, pushing misleading content into mainstream
-
-
-
-conversations. The viral nature of false information often means that by
+**Social media platforms** play a significant role in amplifying disinformation. AI-powered bots can generate thousands of posts within minutes, pushing misleading content into mainstream conversations. The viral nature of false information often means that by
 the time fact-checkers step in, the damage has already been
 done.<sup>[3]</sup> In this way, malicious actors exploit human psychology,
 knowing that people are more likely to believe and share emotionally
 charged content without verification.
-
 
 Furthermore, disinformation is increasingly used **in conjunction with
 cyberattacks** as a form of psychological warfare. In some cases,
@@ -84,7 +76,7 @@ society to mitigate risks and uphold information integrity, reason why
 training experts to better advise these institutions on these topics is
 crucial.
 
-Training Audience
+## Training Audience
 
 The training will be offered to a group of **40 experts from the Experts
 Pool of EU CyberNet**. The purpose of the summer school is to advance
@@ -99,7 +91,7 @@ consider themselves in the future as **EUCN trainers**, ready to respond
 to various requests on disinformation in cyber crisis management in the
 future.
 
-Training Objectives
+## Training Objectives
 
 -   Define disinformation and distinguish it from misinformation and
     propaganda
@@ -155,7 +147,7 @@ Trump. *Computer*, 50(4), 110-114.
 
 [6] [https://](http://www.ft.com/content/0aa9725d-e423-4a6b-b842-866ad4541dc2?utm_source=chatgpt.com)[www.ft.com/content/0aa9725d-e423-4a6b-b842-866ad4541dc2?utm_source=chatgpt.com](http://www.ft.com/content/0aa9725d-e423-4a6b-b842-866ad4541dc2?utm_source=chatgpt.com)
 
-Training Format
+## Training Format
 
 EU CyberNet in partnership with the German Federal Foreign Office
 will organise its 4th iteration of the **Summer School**
@@ -165,11 +157,11 @@ Navigating Disinformation and Cyber Attacks in the AI era**.
 
 ## Course Programme 
 
-### Day 0 Tuesday 12 August 2025 
+### Day 0 Tuesday 12 August 
 
 18:00 -- 20:00 Icebreaker
 
-### Day 1 Wednesday 13 August 2025 
+### Day 1 Wednesday 13 August 
 
 08:30 -- 09:00 Arrival and Registration
 
@@ -184,7 +176,7 @@ Office
 
 09:30 -- 09:40 Overview of the Course
 
-Module: DI.INTRO.1
+Module: DI.INTRO.1 [Slides](DI.INTRO.1 Overview of the Course.pdf)
 
 Instructor Led by Cosimo Melella, EU CyberNet Instructor
 
@@ -286,9 +278,7 @@ Instructor Led by Stephen Campbell, EU CyberNet Instructor
 
 19:00 -- 21:00 Social Dinner
 
-### Day 2 
-
-### Thursday 14 August 2025 
+### Day 2 Thursday 14 August 
 
 08:30 -- 09:00 Arrival
 
@@ -383,9 +373,7 @@ Module: PS.TABLE.5
 Instructors Led by Cosimo Melella, EU CyberNet Instructor and Stephen
 Campbell, EU CyberNet Instructor and Julian Neylan, DISARM Foundation
 
-### Day 3 
-
-### Friday 15 August 2025 
+### Day 3 Friday 15 August 
 
 08:30 -- 09:00 Arrival
 
