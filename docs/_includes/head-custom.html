@@ -1,0 +1,68 @@
+<style>
+  /* ── Widen the wrapper ──────────────────────────────────────────────────── */
+  /* Default theme hard-codes .wrapper at 650 px. Override to 92 % of viewport
+     up to 1800 px, keeping it centred. */
+  .wrapper {
+    width: 92vw !important;
+    max-width: 1800px !important;
+    margin: 0 auto !important;
+  }
+
+  /* ── Widen the content section ──────────────────────────────────────────── */
+  /* The leap-day nav is position:fixed at left:50%; margin-left:-580px, so its
+     right edge is always at calc(50vw - 350px).  The section's left edge must
+     stay to the right of that for all viewport widths.
+
+     Wrapper left edge  = 50vw - 46vw = 4vw
+     Nav right edge     = 50vw - 350px
+     Required margin-left inside wrapper = (50vw - 350px) - 4vw = 46vw - 350px
+     We add a 15 px breathing gap → calc(46vw - 335px), floored at 230 px for
+     narrow viewports where the nav is already off-screen or collapsed. */
+  section {
+    width: auto !important;
+    max-width: none !important;
+    box-sizing: border-box !important;
+    margin-left: max(230px, calc(46vw - 335px)) !important;
+  }
+
+  /* ── Full-width, scrollable tables ──────────────────────────────────────── */
+  /* Render tables as block so overflow-x kicks in for very wide tables. */
+  section table {
+    display: block !important;
+    width: max-content !important;
+    min-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    border-collapse: collapse !important;
+    font-size: 0.82em !important;
+    line-height: 1.45 !important;
+  }
+
+  section table thead th {
+    background-color: #2a4a7f !important;
+    color: #fff !important;
+    padding: 8px 12px !important;
+    text-align: left !important;
+    white-space: nowrap !important;
+  }
+
+  section table tbody td {
+    padding: 7px 12px !important;
+    vertical-align: top !important;
+    border-bottom: 1px solid #ddd !important;
+  }
+
+  section table tbody tr:nth-child(even) td {
+    background-color: #f5f7fa !important;
+  }
+
+  /* ── Responsive: restore auto widths at the theme's own breakpoints ─────── */
+  @media print, screen and (max-width: 1060px) {
+    .wrapper {
+      width: 98vw !important;
+    }
+    section {
+      margin-left: 0 !important;
+    }
+  }
+</style>
