@@ -4,10 +4,10 @@
 
 | Continent                                                                                     | 
 |----------------------------------------------------------------------------------------------------|
-| [Europe](europe_hybrid_incidents_full.md)                                               | 
-| [North America](north_america_hybrid_incidents_expanded.md)                                    | 
-| [South America](south_america_hybrid_incidents.md)                                               | 
-| [Asia](asia_hybrid_incidents.md)                                                   | 
-| [Africa](africa_hybrid_incidents.md)                                                            | 
-| [Australia](australia_hybrid_incidents.md)                                                                       | 
+| [Europe](../country_indexes/EU-classification.md)                                               | 
+| [North America](../country_indexes/NA-classification.md)                                    | 
+| [South America](../country_indexes/SA-classification.md)                                               | 
+| [Asia](../country_indexes/AS-classification.md)                                                   | 
+| [Africa](../country_indexes/AF-classification.md)                                                            | 
+| [Australia](../country_indexes/AU-classification.md)                                                                       | 
 
