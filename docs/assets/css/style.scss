@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── Widen the content area ───────────────────────────────────────────────── */
+
+/* The leap-day theme caps .inner at ~640 px. Override it to use most of the
+   available viewport width to the right of the fixed sidebar. */
+.inner {
+  max-width: 1600px !important;
+  width: 92% !important;
+  padding: 20px 2% !important;
+  box-sizing: border-box !important;
+}
+
+#main_content_wrap {
+  width: 100% !important;
+}
+
+/* ── Full-width, scrollable tables ───────────────────────────────────────── */
+
+/* Render tables as block elements so overflow-x scrolling works when the
+   table is wider than the container even at the new expanded width. */
+.inner table {
+  width: 100% !important;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  font-size: 0.82em;
+  line-height: 1.4;
+}
+
+.inner table thead th {
+  white-space: nowrap;
+  background-color: #2a4a7f;
+  color: #fff;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.inner table tbody td {
+  padding: 7px 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+.inner table tbody tr:nth-child(even) td {
+  background-color: #f5f7fa;
+}
